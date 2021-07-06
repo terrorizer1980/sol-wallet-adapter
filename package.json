@@ -58,6 +58,6 @@
   },
   "dependencies": {
     "bs58": "^4.0.1",
-    "eventemitter3": "^4.0.4"
+    "eventemitter3": "^4.0.7"
   }
 }
